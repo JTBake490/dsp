@@ -361,6 +361,8 @@ $ du -d 1 ~ |  sort -n -r | head
 
 What does this do?
 
+'>>' it goes through and prints the number of lines from the least to the most.
+
 **TIP:** You can use pipes to chain together almost any number of commands!
 
 ##### `>`, `>>`, and `<`
@@ -438,6 +440,8 @@ What about for this one?
 ```
 drwx------   4 paulburkard  staff   136B Jun  6 10:16 Applications
 ```
+only the current user and read,write,execute abilities. 
+
 #### Changing Permissions
 Now that you understand the access model, here are a few commands that allow you to change the permissions.
 
