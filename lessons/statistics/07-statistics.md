@@ -101,10 +101,10 @@ How do frequentist and Bayesian statistics compare?
 
 >> Both are similar in that they try to estimate the probability of an event.
 
-They differ in the philosophy. Frequentist statistics only tries to apply a probability to repeatable events.
+>>They differ in the philosophy. Frequentist statistics only tries to apply a probability to repeatable events.
 I like to think of a frequentist approach as something that came performed in a controled environment (such as a labratory).
 
-A bayesian tries to apply a probability to both repeatable and non-repeatable events.
+>>A bayesian tries to apply a probability to both repeatable and non-repeatable events.
 
 ---
 
